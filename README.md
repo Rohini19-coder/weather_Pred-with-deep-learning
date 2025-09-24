@@ -13,7 +13,7 @@ We also built a **frontend web app** to make predictions easy and interactive.
 
 
 ## 📊 Sample Output
-Here’s the frontend of the moel
+Here’s the frontend of the model
 
 ![Weather Prediction Output](image.png)
 
