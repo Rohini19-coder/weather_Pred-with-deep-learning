@@ -8,6 +8,15 @@ We also built a **frontend web app** to make predictions easy and interactive.
 ## 🚀 Live Demo
 👉 [Try the app here](https://sky-frame.lovable.app)
 
+
+
+
+
+## 📊 Sample Output
+Here’s the frontend of the moel
+
+![Weather Prediction Output](images/output.png)
+
 ---
 
 ## 📌 Features
